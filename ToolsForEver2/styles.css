@@ -1,0 +1,99 @@
+body {
+
+  background-color: #eee;
+}
+
+.bggrijs{
+	background-color:grey;
+	
+}
+.hoofdtekst{
+	
+	color:#fff;
+	
+}
+
+.mt10{
+	
+	margin-top:10px;
+}
+.headgrijs{
+	
+	background-color:grey;
+	height:650px;
+}
+.navbar-default {
+    background-color: grey;
+    border-color: grey;
+	
+}
+.nav>li>a:hover {
+    text-decoration: none;
+    background-color: grey;
+}
+
+
+.mt20{
+	margin-top:20px;
+}
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    color: #fff;
+}
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+	.mt30{
+		margin-top:30px;
+	}
+	.btm30{ margin-bottom:30px; text-align:center;}
+    
+    
+  
+   
+    
+    .sidenav {
+      padding-top: 20px;
+      background-color: #f1f1f1;
+      height: 100%;
+    }
+    
+   
+    footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+    }
+	
+	.btn-primary {
+    color: #fff;
+    background-color: grey;
+    border-color: grey;
+}
+	.header{
+		background: url('images/header-img.jpg');
+		width:100%;
+		height:300px;
+	}
+    
+    
+  
+
+
+
+
+
+
+
+.footer{
+position:relative;
+ 
+   bottom:0px;
+	height:50px;
+   width:100%;
+   background:#999;
+}
+
